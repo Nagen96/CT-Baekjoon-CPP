@@ -1,0 +1,6 @@
+﻿  1330번_두수비교하기.cpp
+  2557번_HelloWorld.cpp
+C:\workspace\vs-workspace\BaekjoonCPP\BaekjoonCPP\2557번_HelloWorld.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+2557?_HelloWorld.obj : error LNK2005: _main already defined in 1330?_??????.obj
+C:\workspace\vs-workspace\BaekjoonCPP\Debug\BaekjoonCPP.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,16 @@
+﻿  10718번_Welovekriii.cpp
+C:\workspace\vs-workspace\BaekjoonCPP\10718번_Welovekriii\10718번_Welovekriii.cpp(5,18): warning C4566: character represented by universal-character-name '\uAC15' cannot be represented in the current code page (932)
+C:\workspace\vs-workspace\BaekjoonCPP\10718번_Welovekriii\10718번_Welovekriii.cpp(5,18): warning C4566: character represented by universal-character-name '\uD55C' cannot be represented in the current code page (932)
+C:\workspace\vs-workspace\BaekjoonCPP\10718번_Welovekriii\10718번_Welovekriii.cpp(5,18): warning C4566: character represented by universal-character-name '\uCE5C' cannot be represented in the current code page (932)
+C:\workspace\vs-workspace\BaekjoonCPP\10718번_Welovekriii\10718번_Welovekriii.cpp(5,18): warning C4566: character represented by universal-character-name '\uAD6C' cannot be represented in the current code page (932)
+C:\workspace\vs-workspace\BaekjoonCPP\10718번_Welovekriii\10718번_Welovekriii.cpp(5,18): warning C4566: character represented by universal-character-name '\uB300' cannot be represented in the current code page (932)
+C:\workspace\vs-workspace\BaekjoonCPP\10718번_Welovekriii\10718번_Welovekriii.cpp(5,18): warning C4566: character represented by universal-character-name '\uC721' cannot be represented in the current code page (932)
+C:\workspace\vs-workspace\BaekjoonCPP\10718번_Welovekriii\10718번_Welovekriii.cpp(5,18): warning C4566: character represented by universal-character-name '\uAD70' cannot be represented in the current code page (932)
+C:\workspace\vs-workspace\BaekjoonCPP\10718번_Welovekriii\10718번_Welovekriii.cpp(6,18): warning C4566: character represented by universal-character-name '\uAC15' cannot be represented in the current code page (932)
+C:\workspace\vs-workspace\BaekjoonCPP\10718번_Welovekriii\10718번_Welovekriii.cpp(6,18): warning C4566: character represented by universal-character-name '\uD55C' cannot be represented in the current code page (932)
+C:\workspace\vs-workspace\BaekjoonCPP\10718번_Welovekriii\10718번_Welovekriii.cpp(6,18): warning C4566: character represented by universal-character-name '\uCE5C' cannot be represented in the current code page (932)
+C:\workspace\vs-workspace\BaekjoonCPP\10718번_Welovekriii\10718번_Welovekriii.cpp(6,18): warning C4566: character represented by universal-character-name '\uAD6C' cannot be represented in the current code page (932)
+C:\workspace\vs-workspace\BaekjoonCPP\10718번_Welovekriii\10718번_Welovekriii.cpp(6,18): warning C4566: character represented by universal-character-name '\uB300' cannot be represented in the current code page (932)
+C:\workspace\vs-workspace\BaekjoonCPP\10718번_Welovekriii\10718번_Welovekriii.cpp(6,18): warning C4566: character represented by universal-character-name '\uC721' cannot be represented in the current code page (932)
+C:\workspace\vs-workspace\BaekjoonCPP\10718번_Welovekriii\10718번_Welovekriii.cpp(6,18): warning C4566: character represented by universal-character-name '\uAD70' cannot be represented in the current code page (932)
+  10718번_Welovekriii.vcxproj -> C:\workspace\vs-workspace\BaekjoonCPP\x64\Debug\10718번_Welovekriii.exe
